@@ -1,4 +1,4 @@
-sudo pacman -S code ufw flat-remix firefox flat-remix-gtk flat-remix-gnome flameshot gnome-shell-extension-dash-to-panel
+yay -S code ufw flat-remix flat-remix-gtk flat-remix-gnome flameshot gnome-shell-extension-dash-to-panel
 sudo ufw enable
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
